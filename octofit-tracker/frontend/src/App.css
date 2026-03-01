@@ -1,0 +1,12 @@
+.App {
+  min-height: 100vh;
+}
+
+.navbar-brand img {
+  border-radius: 50%;
+}
+
+.nav-link.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
